@@ -1,0 +1,14 @@
+⚠️ PATCH REMINDER REPORT
+
+Google Chrome is outdated.
+Installed: 113.0.1 → Latest: 115.0.2
+
+Mozilla Firefox is outdated.
+Installed: 102.0 → Latest: 115.0
+
+Python is outdated.
+Installed: 3.10 → Latest: 3.12
+
+Zoom is outdated.
+Installed: 5.10 → Latest: 5.15
+
